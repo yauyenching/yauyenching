@@ -1,6 +1,6 @@
 # Hello there! 👋🏻 #
 
-- 👩🏻‍🎓 I am **Yen Ching** (she/her/hers), a recent graduate of Yale-NUS College in Singapore.
+- 👩🏻‍🎓 I am **Yen Ching** (she/her/hers), a recent Computer Science graduate of Yale-NUS College in Singapore.
 - 📚 I am currently going through the Odin Project curriculum, reading books about Product Management, and applying for FTE roles!
 - 💡 I have an interest in building human-centered products with intuitive interfaces!
 - 👩🏻‍💻 I have experience in functional programming, concurrent programming, and data analysis, and I am looking to hone my JavaScript full stack web development skills! 
