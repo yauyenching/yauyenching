@@ -1,23 +1,12 @@
-# Hello there! 👋🏻 #
+<h1 align='center'>Hello there! <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" height=30> I'm Yen Ching. 👩🏻‍💻</h1>
 
-- 👩🏻‍🎓 I am **Yen Ching** (she/her/hers), a recent Computer Science graduate of Yale-NUS College in Singapore.
-- 📚 I am currently going through the Odin Project curriculum, reading books about Product Management, and applying for FTE roles!
-- 💡 I have an interest in building human-centered products with intuitive interfaces!
-- 👩🏻‍💻 I have experience in functional programming, concurrent programming, and data analysis, and I am looking to hone my JavaScript full stack web development skills! 
+<p align='center'>A Computer Science graduate (she/her) from Yale-NUS College in Singapore and budding full stack developer.</p>
 
-### 📧 You can reach me at [yauyenching@proton.me](mailto:yauyenching@proton.me)!
+I have a strong foundation in functional programming, object-oriented programming, full stack web development, concurrent programming, data analysis, and UX research/design.
 
-<!--
-**yauyenching/yauyenching** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='left'>
+  <p><a href="https://github.com/yauyenching"><img src="https://github-readme-stats.vercel.app/api?username=yauyenching&show_icons=true&theme=rose_pine"></a></p>
+  <p><a href="https://github.com/yauyenching"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yauyenching&theme=rose_pine&layout=compact"></a></p>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align='left'>📫 You can reach me at: <a href='mailto:yauyenching@proton.me'>yauyenching@proton.me</a></h3>
