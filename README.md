@@ -9,4 +9,4 @@ I have a strong foundation in functional programming, object-oriented programmin
   <p><a href="https://github.com/yauyenching"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yauyenching&theme=rose_pine&layout=compact"></a></p>
 </div>
 
-<h2 align='left'>📫 You can reach me at: <a href='mailto:yauyenching@proton.me'>yauyenching@proton.me</a></h3>
+<h3 align='left'>📫 You can reach me at: <a href='mailto:yauyenching@proton.me'>yauyenching@proton.me</a></h3>
