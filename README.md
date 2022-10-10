@@ -6,7 +6,7 @@ I have a strong foundation in functional programming, object-oriented programmin
 
 <div align='left'>
   <p><a href="https://github.com/yauyenching"><img src="https://github-readme-stats.vercel.app/api?username=yauyenching&show_icons=true&theme=rose_pine"></a></p>
-  <p><a href="https://github.com/yauyenching"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yauyenching&theme=rose_pine&layout=compact&langs_count=5&hide=java"></a></p>
+  <p><a href="https://github.com/yauyenching"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yauyenching&theme=rose_pine&layout=compact&langs_count=5"></a></p>
 </div>
 
 <h3 align='left'>📫 You can reach me at: <a href='mailto:yauyenching@proton.me'>yauyenching@proton.me</a></h3>
